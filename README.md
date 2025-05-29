@@ -4,7 +4,6 @@ A collection of eight self-contained Jupyter notebooks tackling real-world analy
 
 > **Goal:** demonstrate end-to-end data-science skills — EDA → feature engineering → modelling → evaluation → visual storytelling.
 
----
 
 ## 🗂️ Repository Structure
 
@@ -26,8 +25,6 @@ AICP\_Tasks-main/
 
 *(CSV / XLSX files are already committed for convenience—no extra downloads needed.)*
 
----
-
 ## 🚀 Task Guide
 
 | Notebook | Theme & Techniques | Quick Take |
@@ -40,8 +37,6 @@ AICP\_Tasks-main/
 | **Task6_AICP.ipynb** | *Exploratory Data Analysis Sprint* | Hands-on drill: missing values, descriptive stats, visuals. |
 | **Task 7-8_AICP.ipynb** | *Epidemiology Analytics* — Trend, choropleth, SIR hints | Visualises COVID-19 spread patterns & behavioural metrics. |
 
----
-
 ## 🛠️ Tech Stack
 
 | Category    | Key Libraries |
@@ -53,7 +48,6 @@ AICP\_Tasks-main/
 
 Python ≥ 3.9 recommended.
 
----
 
 ## ⚙️ Quick Start
 
@@ -72,7 +66,6 @@ jupyter lab     # or: jupyter notebook
 
 > **Tip:** Each notebook runs independently — open the one you need and execute top-to-bottom.
 
----
 
 ## 📈 Results & Insights
 
@@ -82,8 +75,6 @@ jupyter lab     # or: jupyter notebook
 
 *(Full metrics, charts, and discussion live inside each notebook.)*
 
----
-
 ## 🤝 Contributing
 
 Found an issue or have a cool optimisation idea?
@@ -92,14 +83,12 @@ Found an issue or have a cool optimisation idea?
 2. Open a Pull Request – please describe **why** the change helps.
 3. We’ll review ASAP!
 
----
 
 ## 📄 License
 
 MIT — do whatever you like, just give credit.
 Data files remain the property of their original sources; used here for educational purposes only.
 
----
 
 ### Maintainer
 
