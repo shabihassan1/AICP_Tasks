@@ -5,7 +5,6 @@ from forecasting Instagram reach to spotting fraudulent transactions and COVID-1
 
 > **Purpose:** showcase full-stack data-science skills → **EDA ▸ feature engineering ▸ ML / Stats ▸ evaluation ▸ storytelling**
 
----
 
 ## 📁 Project Layout
 
@@ -83,11 +82,16 @@ Each notebook reads its data from `data/`—no extra downloads needed.
 
 ## 📈 Highlights
 
-* **±8 % MAPE** on Instagram-reach forecasting using seasonal SARIMA
-* **>92 % anomaly recall** on synthetic fraud dataset with Isolation Forest
-* **Interactive COVID-19 dashboard** → rolling trends & geo heat-maps
+✨ Key achievements from this notebook suite:
 
-See individual notebooks for full metrics and visuals.
+- 📊 **±8% MAPE** on Instagram reach prediction using seasonal **SARIMA** models.
+- 🔍 **92%+ anomaly recall** on synthetic fraud transactions with **Isolation Forest** & **DBSCAN**.
+- 🧪 **Search-query outlier detection** using **TF-IDF + cosine similarity** for real-time spam spotting.
+- 🧬 **Customer segmentation** via **K-Means** and **RFM analysis** for personalized marketing insights.
+- 🦠 **Interactive COVID-19 dashboard** with rolling averages, choropleths, and trend visualizations.
+
+> 💡 Each notebook includes visualizations, metrics, and in-notebook commentary for reproducibility and insight.
+
 
 
 ## 🤝 Contributing
@@ -106,7 +110,3 @@ We review rapidement!
 **MIT**—use, fork, and remix freely.
 Data files remain property of their original sources and are included for educational demonstration only.
 
-### Maintainer
-
-Syed Shabi-ul-Hassan • AI & Blockchain Enthusiast
-[GitHub](https://github.com/shabihassan1) | [LinkedIn](https://www.linkedin.com/in/shabi-ul-hassan1)
